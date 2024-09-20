@@ -22,7 +22,7 @@
 [GMX](https://gmx-interface-uxuy.vercel.app/#/trade)  
 [Mooniswap](https://moonswap-a6y.pages.dev/)  
 [Aave](https://aave-interface-uxuy.vercel.app/?marketName=proto_mainnet_v3)  
-[Venus](https://venus-protocol-interface-evm-three.vercel.app/#/?chainId=56)。
+[Venus](https://venus-protocol-interface-evm-three.vercel.app/#/?chainId=56)
 
 [SOFA](https://t.me/SOFADAppBot/dapp)  
 [Butterswap](https://butterswap.io/swap)  
