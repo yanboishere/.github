@@ -17,3 +17,13 @@
 
 ## Bots Integrated UXUY Connect SDK
 
+[Uniswap](https://uiswap-tg.pages.dev/#/swap)  
+[Pancakeswap](https://upancakeswap.pages.dev/)  
+[GMX](https://gmx-interface-uxuy.vercel.app/#/trade)  
+[Mooniswap](https://moonswap-a6y.pages.dev/)  
+[Aave](https://aave-interface-uxuy.vercel.app/?marketName=proto_mainnet_v3)  
+[Venus](https://venus-protocol-interface-evm-three.vercel.app/#/?chainId=56)。
+
+[SOFA](https://t.me/SOFADAppBot/dapp)  
+[Butterswap](https://butterswap.io/swap)  
+[Element](https://t.me/element_nft_bot/dapp) 
