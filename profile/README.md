@@ -1,6 +1,6 @@
 # UXUY Connect 
 
-**UXUY Wallet** transforms dApps into mini-apps within Telegram, integrating blockchain tech with social platforms. It simplifies user interactions, improves conversion, and provides secure access via **MPC technology**.
+**UXUY Wallet** transforms dApps into mini-apps within Telegram, integrating blockchain tech with social platforms. It simplifies user interactions, improves conversion.
 
 ## Features
 
@@ -10,3 +10,7 @@
 
 
 [Docs](https://docs.uxuy.com/uxuy-connect/quickstart/)
+[Discussions](https://github.com/orgs/uxuyconnect/discussions)
+
+[Telegram](https://t.me/UXUYbot)
+[Developer Group](https://t.me/uxuyconnect)
