@@ -12,5 +12,8 @@
 [Docs](https://docs.uxuy.com/uxuy-connect/quickstart/)  
 [Discussions](https://github.com/orgs/uxuyconnect/discussions)  
 
-[Telegram](https://t.me/UXUYbot)  
+[UXUY Wallet Telegram miniapp](https://t.me/UXUYbot)  
 [Developer Group](https://t.me/uxuyconnect)
+
+## Bots Integrated UXUY Connect SDK
+
