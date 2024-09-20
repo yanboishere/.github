@@ -9,8 +9,8 @@
 - **Token Economy**: Regulate interactions with tokens.
 
 
-[Docs](https://docs.uxuy.com/uxuy-connect/quickstart/)
-[Discussions](https://github.com/orgs/uxuyconnect/discussions)
+[Docs](https://docs.uxuy.com/uxuy-connect/quickstart/)  
+[Discussions](https://github.com/orgs/uxuyconnect/discussions)  
 
-[Telegram](https://t.me/UXUYbot)
+[Telegram](https://t.me/UXUYbot)  
 [Developer Group](https://t.me/uxuyconnect)
