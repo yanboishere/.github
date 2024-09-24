@@ -27,3 +27,5 @@
 [SOFA](https://t.me/SOFADAppBot/dapp)  
 [Butterswap](https://butterswap.io/swap)  
 [Element](https://t.me/element_nft_bot/dapp) 
+
+[PancakeSwap Prediction](https://t.me/pancakefi_bot)
