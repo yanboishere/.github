@@ -17,22 +17,22 @@
 
 ## Bots Integrated UXUY Connect SDK
 
-[Uniswap](https://uiswap-tg.pages.dev/#/swap) 
-[Pancakeswap](https://upancakeswap.pages.dev/) 
-[GMX](https://gmx-interface-uxuy.vercel.app/#/trade) 
-[SOFA](https://t.me/SOFADAppBot/dapp)  
-[Mooniswap](https://moonswap-a6y.pages.dev/) 
-[Aave](https://aave-interface-uxuy.vercel.app/?marketName=proto_mainnet_v3)  
-[Venus](https://venus-protocol-interface-evm-three.vercel.app/#/?chainId=56)
-[Element](https://t.me/element_nft_bot/dapp) 
-[Butterswap](https://butterswap.io/swap)
-[Curve](https://curve-frontend.pages.dev/#/avalanche/swap?from=0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab&to=0xc7198437980c041c805a1edcba50c1ce5db95118)
-[Element](https://t.me/element_nft_bot/dapp)
-[PancakeSwap Prediction](https://t.me/pancakefi_bot/prediction)
-[Four.Meme](https://four.meme)
-[GMGN](https://gmgn.ai/?chain=eth)
-[OpenCrypto](https://t.me/OpenCryptoBot_Bot/uxuy?startapp=d2lkZ2V0SWQ9VkZreFkzZFJPVlk=)
-[KiloEx](https://app.kiloex.io/?from=uxuy)
+[Uniswap](https://uiswap-tg.pages.dev/#/swap)  
+[Pancakeswap](https://upancakeswap.pages.dev/)  
+[GMX](https://gmx-interface-uxuy.vercel.app/#/trade)   
+[SOFA](https://t.me/SOFADAppBot/dapp)   
+[Mooniswap](https://moonswap-a6y.pages.dev/)   
+[Aave](https://aave-interface-uxuy.vercel.app/?marketName=proto_mainnet_v3)    
+[Venus](https://venus-protocol-interface-evm-three.vercel.app/#/?chainId=56)  
+[Element](https://t.me/element_nft_bot/dapp)   
+[Butterswap](https://butterswap.io/swap)  
+[Curve](https://curve-frontend.pages.dev/#/avalanche/swap?from=0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab&to=0xc7198437980c041c805a1edcba50c1ce5db95118)  
+[Element](https://t.me/element_nft_bot/dapp)  
+[PancakeSwap Prediction](https://t.me/pancakefi_bot/prediction)  
+[Four.Meme](https://four.meme)  
+[GMGN](https://gmgn.ai/?chain=eth)  
+[OpenCrypto](https://t.me/OpenCryptoBot_Bot/uxuy?startapp=d2lkZ2V0SWQ9VkZreFkzZFJPVlk=)  
+[KiloEx](https://app.kiloex.io/?from=uxuy)  
 
 
 
