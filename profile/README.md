@@ -45,6 +45,7 @@ Bankcoin
 Bettor  
 Bitperp  
 BitsLab
+BitLayer
 Butterswap
 BitSmiley  
 BlastAPI  
@@ -56,14 +57,17 @@ Chiliz
 CloudCraze  
 CoinMapAI   
 CoralFi  
-DOP  
+ChatCoin
+DOP
+Dogs
 edgeX  
 EZsrcure  
 Flap  
 four.meme  
-Funton
+Funton.ai
 GMGN
 Halo  
+Hamster KomBat
 ICP  
 Infinity Group  
 Jarvis  
@@ -80,16 +84,20 @@ Pencil
 People AI  
 PredX.ai  
 Pumpad  
+Piggie
+Pancake Prediction
 RectCoin  
 Satori  
 Satori  
 SOFA  
 STON.FI  
 Sunpump  
+Tapswap
 Telos  
 Tonchi
 Travala  
 TravelFrog  
+TOmarket
 WhaleDash  
 Whycoin  
 ZigZag  
