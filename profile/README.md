@@ -39,6 +39,7 @@
 [TOmarket](https://t.me/Tomarket_ai_bot)
 [TapSwap](https://t.me/tapswap_bot)
 [Piggie](https://t.me/piggie)
+[RectCoinBot](https://t.me/RectCoinBot)
 
 
 
