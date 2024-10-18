@@ -32,22 +32,12 @@
 [Four.Meme](https://four.meme)  
 [GMGN](https://gmgn.ai/?chain=eth)  
 [OpenCrypto](https://t.me/OpenCryptoBot_Bot/uxuy?startapp=d2lkZ2V0SWQ9VkZreFkzZFJPVlk=)  
-
-[KiloEx](https://app.kiloex.io/?from=uxuy)  
-
-[Dogs](https://t.me/dogshouse_bot)
-
-[BitLayer Flash Bridge](https://www.bitlayer.org/flash-bridge)
-
-[Chatcoin](https://t.me/ChatCoinAppBot/chat?startapp=inviteCode=uxuy)
-
-[TOmarket](https://t.me/Tomarket_ai_bot)
-
-[TapSwap](https://t.me/tapswap_bot)
-
-[Piggie](https://t.me/piggie)
-
-[RectCoinBot](https://t.me/RectCoinBot)
+[KiloEx](https://app.kiloex.io/?from=uxuy)   
+[BitLayer Flash Bridge](https://www.bitlayer.org/flash-bridge)   
+[Chatcoin](https://t.me/ChatCoinAppBot/chat?startapp=inviteCode=uxuy)   
+[TapSwap](https://t.me/tapswap_bot)   
+[Piggie](https://t.me/piggie)  
+[RectCoinBot](https://t.me/RectCoinBot)  
 
 
 
