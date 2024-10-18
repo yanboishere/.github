@@ -88,7 +88,6 @@ Pencil
 People AI  
 PredX.ai  
 Pumpad  
-PiggieRectCoin  
 Satori  
 Satori  
 SOFA  
