@@ -33,6 +33,12 @@
 [GMGN](https://gmgn.ai/?chain=eth)  
 [OpenCrypto](https://t.me/OpenCryptoBot_Bot/uxuy?startapp=d2lkZ2V0SWQ9VkZreFkzZFJPVlk=)  
 [KiloEx](https://app.kiloex.io/?from=uxuy)  
+[Dogs](https://t.me/dogshouse_bot)
+[BitLayer Flash Bridge](https://www.bitlayer.org/flash-bridge)
+[Chatcoin](https://t.me/ChatCoinAppBot/chat?startapp=inviteCode=uxuy)
+[TOmarket](https://t.me/Tomarket_ai_bot)
+[TapSwap](https://t.me/tapswap_bot)
+[Piggie](https://t.me/piggie)
 
 
 
@@ -57,9 +63,7 @@ Chiliz
 CloudCraze  
 CoinMapAI   
 CoralFi  
-ChatCoin
 DOP
-Dogs
 edgeX  
 EZsrcure  
 Flap  
@@ -67,7 +71,6 @@ four.meme
 Funton.ai
 GMGN
 Halo  
-Hamster KomBat
 ICP  
 Infinity Group  
 Jarvis  
@@ -84,9 +87,7 @@ Pencil
 People AI  
 PredX.ai  
 Pumpad  
-Piggie
-Pancake Prediction
-RectCoin  
+PiggieRectCoin  
 Satori  
 Satori  
 SOFA  
