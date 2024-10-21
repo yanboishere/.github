@@ -9,7 +9,7 @@
 - **Token Economy**: Regulate interactions with tokens.
 
 ## Mini App 
-[![Telegram](https://img.shields.io/badge/@UXUY_Wallet_Telegram_mini_app-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UXUYbot) 
+[![Telegram](https://img.shields.io/badge/@UXUY_Telegram_mini_app-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UXUYbot) 
 
 ## Developer Resources
 ### Docs
