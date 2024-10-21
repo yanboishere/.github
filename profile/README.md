@@ -8,12 +8,19 @@
 - **Cross-chain Support**: BNB Chain and other EVM chains.
 - **Token Economy**: Regulate interactions with tokens.
 
+## Mini App 
+[![Telegram](https://img.shields.io/badge/@UXUY_Wallet_Telegram_mini_app-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UXUYbot) 
 
-[Docs](https://docs.uxuy.com/uxuy-connect/quickstart/)  
-[Discussions](https://github.com/orgs/uxuyconnect/discussions)  
+## Developer Resources
+### Docs
+[![Docs](https://img.shields.io/badge/Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://docs.uxuy.com/uxuy-connect/quickstart/)
 
-[UXUY Wallet Telegram miniapp](https://t.me/UXUYbot)  
-[Developer Group](https://t.me/uxuyconnect)
+### GitHub Disscussions
+[![Github Disscussions](https://img.shields.io/badge/Github_Disscussions-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/uxuyconnect/discussions)
+
+### Community
+[![Telegram](https://img.shields.io/badge/@Developer_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uxuyconnect)
+
 
 ## Bots Integrated UXUY Connect SDK
 
