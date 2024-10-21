@@ -33,9 +33,7 @@
 [OpenCrypto](https://t.me/OpenCryptoBot_Bot/uxuy?startapp=d2lkZ2V0SWQ9VkZreFkzZFJPVlk=)  
 [KiloEx](https://app.kiloex.io/?from=uxuy)   
 [BitLayer Flash Bridge](https://www.bitlayer.org/flash-bridge)   
-[TapSwap](https://t.me/tapswap_bot)   
-[Piggie](https://t.me/piggie)  
-[RectCoinBot](https://t.me/RectCoinBot)  
+
 
 
 
