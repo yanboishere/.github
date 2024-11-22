@@ -15,6 +15,10 @@
 ### Docs
 [![Docs](https://img.shields.io/badge/Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://docs.uxuy.com/uxuy-connect/quickstart/)
 
+#### SDK
+[![UXUY Connect SDK](https://img.shields.io/badge/UXUY_Connect_SDK-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uxuyconnect/connect-sdk)
+
+
 ### GitHub Disscussions
 [![Github Disscussions](https://img.shields.io/badge/Github_Disscussions-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/uxuyconnect/discussions)
 
